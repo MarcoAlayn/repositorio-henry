@@ -1,0 +1,9 @@
+Variables: Una variable es un elemento que se emplea para almacenar y hacer referencia a otro valor. Por ejemplo un vaso puede ser una variable y lo que contiene el vaso es el valor que guardamos ahi. Por ejemplo si tomamos el vaso e ingresamos un dolar en su interior, se puede decir que vaso es igual a 1 dolar.
+
+Strings: se utiliza para representar datos textuales. por ejemplo es un vaso en el que unicamente podemos meter letras y palabras y siempre se pueden identificar por las comillas (" ").
+
+Funciones (argumentos, return): Basicamente una funcion es una preconfiguracion en donde podemos ingresar datos y este nos da un resultado tomando esos datos, por ejemplo; podemos ingresar nuestro nombre y la funcion nos regresara una frase con nuestro nombre; Hola Francisco.
+
+Declaraciones if: Es como una accion que se ejectura dependiendo de ciertos valores, por ejemplo si deseamos comprar cierto caramelo, la declaracion if nos dice: Si hay ese caramelo vamos a comprar 5.
+
+Valores booleanos (true, false):Tomando el ejemplo de arriba, son las posiilidades de encontrar(true) el caramelo o no (false).
