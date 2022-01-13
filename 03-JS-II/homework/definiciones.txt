@@ -1,0 +1,7 @@
+for
+   El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces. Por ejemplo cuando queremos llegar hasta la entrada de una casa podriamos indicar a traves de un bloque FOR cuantos pasos debemos avanzar para llegar y al mismo tiempo dar la instrucion de para una vez que llegamos ahi.
+
+
+&&, ||, !
+   Los operadores lógicos comparan valores booleanos y devuelven respuestas booleanas. Hay 3 tipos de operadores lógicos AND y OR. Estos operadores por lo general se escriben && (AND) y || (OR) !(NOT)
+
