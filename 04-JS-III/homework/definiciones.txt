@@ -1,0 +1,2 @@
+Array;
+un array es como una mochila en la que podemos guardar cosas, incluso podemos guardar mas arrays dentro, que podremos utilizar una vez que los necesitemos. Por ejemplo, si dentro de la mochila tenemos 2 libros [Historia, Matematicas] y deseamos utilizar el de matematicas utilizaremos algo asi como Libros[01] recordando que las posiciones de izquierda a derecha empiezan desde 0 y no de 1. 
